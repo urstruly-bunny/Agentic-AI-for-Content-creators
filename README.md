@@ -1,4 +1,4 @@
-# Agentic-AI-for-Content-creators
+
 # Agentic AI Assistance for Content Creators
 
 An end-to-end, AI-driven content automation system for research, video generation, and multi-platform publishing, built on n8n.
